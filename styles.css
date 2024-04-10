@@ -1,0 +1,12 @@
+p {
+    color:firebrick;
+}
+
+.banner-text {
+    color:firebrick;
+    font-size: 50px;
+    background: blue;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+

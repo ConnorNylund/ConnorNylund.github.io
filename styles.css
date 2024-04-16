@@ -1,14 +1,22 @@
 .header {
-    color: red;
+    color: rgb(203, 53, 53);
+}
+
+.header2 {
+    color: rgb(0, 0, 0)
 }
 
 #grad {
-    background-image: linear-gradient(to top, lightgray, white);
+    background-image: linear-gradient(to top, rgb(93, 93, 93), white);
   }
 
 .subheader {
-    color: blue;
     font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bodystyle {
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .navbar {
@@ -26,4 +34,8 @@
 
 .paragraph {
     margin-right: 600px
+}
+
+.image {
+    height:400px
 }

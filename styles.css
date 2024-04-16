@@ -2,6 +2,10 @@
     color: red;
 }
 
+#grad {
+    background-image: linear-gradient(to top, lightgray, white);
+  }
+
 .subheader {
     color: blue;
     font-style: italic;
@@ -15,6 +19,11 @@
 }
 
 .nav-option {
-    color:orangered;
-    margin-right: 5px;
+    color:aliceblue;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+.paragraph {
+    margin-right: 600px
 }
